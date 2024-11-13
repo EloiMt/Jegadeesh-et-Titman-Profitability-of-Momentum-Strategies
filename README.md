@@ -1,0 +1,1 @@
+# Jegadeesh-et-Titman-Profitability-of-Momentum-Strategies
