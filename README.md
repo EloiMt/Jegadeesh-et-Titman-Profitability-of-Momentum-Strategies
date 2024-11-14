@@ -48,5 +48,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name: eloi.martin@edu.devinci.fr
-GitHub Profile: https://github.com/yourusername
+Contact
+For questions or feedback, please reach out:
+
+eloi.martin@edu.devinci.fr
+https://github.com/EloiMt
