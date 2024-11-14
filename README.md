@@ -39,6 +39,14 @@ The project follows a three-step approach:
 - Stocks with poor past performance (losers) tend to underperform.
 - This aligns with the original study's conclusion, suggesting potential inefficiencies in the stock market.
 
+## Installation
+
+1. **Unzip the dataset file `CRSP-data.zip`** in the main project directory.
+
+## Usage
+
+Run the main Jupyter Notebook file to execute the analysis
+
 ## References
 Jegadeesh, N., & Titman, S. (1993). Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency. Journal of Finance.
 
